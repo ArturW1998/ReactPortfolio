@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.13",
-    "axios": "^0.19",
+    "axios": "^0.21",
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "bootstrap-sass": "^3.4.1",
